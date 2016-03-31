@@ -2013,6 +2013,7 @@
 			font-size: 2.25em;
 			line-height: 1.25em;
 			margin-bottom: 0;
+			color:grey
 		}
 
 		#header header p {
@@ -2022,6 +2023,7 @@
 			font-size: 1.25em;
 			line-height: 1.5em;
 			text-align: center;
+			color:grey
 		}
 
 		#header footer {
