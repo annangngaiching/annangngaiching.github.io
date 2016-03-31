@@ -1995,16 +1995,17 @@
 
 /* Header */
 
-	#header {
+	.header {
 		position: relative;
 		margin: 0;
-		background-image: url("http://i776.photobucket.com/albums/yy41/joshuaongyscom/2013%20Others/RainieYangAngelWingsAlbum5.jpg");
-		background-size: auto, cover;
-		background-position: top left, center center;
+		background-image: url(http://i776.photobucket.com/albums/yy41/joshuaongyscom/2013%20Others/RainieYangAngelWingsAlbum5.jpg);
+		background-size: 100%; 
+		background-position: center;
 		background-repeat: no-repeat;
+    	background-attachment: fixed;
 		padding: 14em 0 14em 0;
 		text-align: center;
-		color: #fff;
+		color: #ffffff;
 	}
 
 		#header header h1 {
